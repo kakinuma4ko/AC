@@ -1,4 +1,4 @@
-def twoSum(nums, target):
+def twoSum(nums, target):# cost 600ms
     """
     :type nums: List[int]
     :type target: int
